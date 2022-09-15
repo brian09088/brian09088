@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-<!--
-**brian09088/brian09088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something special and cool stuffs
+- 🌱 I’m currently learning computer science and information technologys
+- 📫 How to reach me:
+- [Email]{brian18088@gmail.com}  
+- [Discord]{https://discordapp.com/users/brian18088#7366}
+- [Instagram]{https://www.instagram.com/brian_18088/}
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Email:brian18088@gmail.com   ig:brian_18088
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian09088)](https://github.com/brian09088/github-readme-stats)
