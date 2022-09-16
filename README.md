@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+# Hello everyone,I'm Brian SU. Come from Taiwan.
+You guys can also call me rabbit-SU.
 - 🔭 I’m currently working on something special and cool stuffs
 - 🌱 I’m currently learning computer science and information technologys
+- 🐰 My nick name:海龍王彼得兔
 - 📫 How to reach me:
 - [Email]{brian18088@gmail.com}  
 - [Discord]{https://discordapp.com/users/brian18088#7366}
