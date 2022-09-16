@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# Hello everyone,I'm Brian SU. Come from Taiwan.
+### Hello everyone,I'm Brian SU. Come from Taiwan.
 You guys can also call me rabbit-SU.
 - 🔭 I’m currently working on something special and cool stuffs
 - 🌱 I’m currently learning computer science and information technologys
