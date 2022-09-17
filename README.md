@@ -3,7 +3,8 @@
 ### Hello everyone,I'm Brian SU. Come from Taiwan.
 You guys can also call me rabbit-SU.
 - 🔭 I’m currently working on something special and cool stuffs
-- 🌱 I’m currently learning computer science and information technologys
+- 🏟  I was studied in mathematical science, having the degree of Bachelor of Science 
+- 🌱 I’m currently learning computer science and information technologys, data-science and statistics analysis
 - 🐰 My nick name:海龍王彼得兔
 - 📫 How to reach me:
 - [Email]{brian18088@gmail.com}  
