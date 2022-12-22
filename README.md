@@ -16,8 +16,5 @@ Rabbits, bunny lover, also a MATH teacher.
 - **Instagram**
 - {https://www.instagram.com/brian_18088/}
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.1.0
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian09088)](https://github.com/brian09088/github-readme-stats)
 [![Brain SU's github stats](https://github-readme-stats.vercel.app/api?username=brian09088)](https://github.com/brian09088/github-readme-stats)
