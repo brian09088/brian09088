@@ -9,12 +9,9 @@ Now being a graduate student, also a MATH teacher.
 - 🌱 I prefer studying hacker techniques, INFOSEC, network structure, data-science and statistics analysis.
 - 🐰 My nick name:海龍王彼得兔
 - 📫 How to reach me:
-- **E-mail**
-- {brian18088@gmail.com}  
-- **Discord**
-- {https://discordapp.com/users/brian18088#7366}
-- **Instagram**
-- {https://www.instagram.com/brian_18088/}
+- **E-mail** {brian18088@gmail.com}
+- [Discord](https://discordapp.com/users/brian18088#7366)
+- [Instagram](https://www.instagram.com/brian_18088/)
 
 ##　Snake eating my contribution graph
 ![snake gif](https://github.com/brian09088/brian09088/blob/output/github-contribution-grid-snake.gif)
