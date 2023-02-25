@@ -7,7 +7,6 @@ Now being a graduate student, also a MATH teacher.
 - 🏟  I was studied in mathematical science, having the degree of Bachelor of Science with minor specialty in Information engineering and programming.
 - 💡  I am currently a graduate student in Information engineering, NSYSU WCMC LAB learning network and wireless/mobile communicaton.
 - 🌱 I prefer studying hacker techniques, INFOSEC, network structure, data-science and statistics analysis.
-- 🐰 My nick name:海龍王彼得兔
 - 📫 How to reach me:
 - **E-mail** {brian18088@gmail.com}
 - [Discord](https://discordapp.com/users/brian18088#7366)
