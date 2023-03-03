@@ -2,7 +2,7 @@
 
 ### Hello everyone,I'm Brian SU. Come from Taiwan.
 Now being a graduate student, also a MATH teacher.
-- 📝 My part-time job is an online learning tutor, "Snapask" instructor for math and science subjects
+- 📝 My part-time job is an online learning tutor, "Snapask" instructor for math/English/science/physics subjects
 - 🔭 I’m currently working on something special and cool stuffs
 - 🏟  I was studied in mathematical science, having the degree of Bachelor of Science with minor specialty in Information engineering and programming.
 - 💡  I am currently a graduate student in Information engineering, NSYSU WCMC LAB learning network and wireless/mobile communicaton.
