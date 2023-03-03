@@ -1,7 +1,8 @@
 # Hi there 👋
 
-### Hello everyone,I'm Brian SU. Come from Taiwan.
-Now being a graduate student, also a MATH teacher.
+### Hello everyone,I'm Brian SU. Come from Taiwan(ROC).
+Now being a graduate student, studying computer science & engineering.
+- 📝 I was a cram school teacher about 2~3 years, tutor for several years, having lots of experience in teaching students 
 - 📝 My part-time job is an online learning tutor, "Snapask" instructor for math/English/science/physics subjects
 - 🔭 I’m currently working on something special and cool stuffs
 - 🏟  I was studied in mathematical science, having the degree of Bachelor of Science with minor specialty in Information engineering and programming.
