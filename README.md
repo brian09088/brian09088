@@ -5,6 +5,7 @@ Now being a graduate student, studying computer science & engineering.
 - 📝 I was a cram school teacher about 2~3 years, tutor for several years, having lots of experience in teaching students 
 - 📝 My part-time job is an online learning tutor, "Snapask" instructor for math/English/science/physics subjects
 - 🔭 I’m currently working on something special and cool stuffs
+- 💂‍♂️  Since I was little, being a military officer is my aspiration. I was enlisted on 2020/07 during my college summer vacation, completed military services unttil 2022/08. Now I still like to study and focus on military News and Techniques, going to apply promotion in 2023, make an effort to become a real sergeant.
 - 🏟  I was studied in mathematical science, having the degree of Bachelor of Science with minor specialty in Information engineering and programming.
 - 💡  I am currently a graduate student in Information engineering, NSYSU WCMC LAB learning network and wireless/mobile communicaton.
 - 🌱 I prefer studying hacker techniques, INFOSEC, network structure, communication protocols, data-science and statistics analysis.
