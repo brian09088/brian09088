@@ -9,6 +9,7 @@ Now being a graduate student, studying computer science & engineering.
 - 🏟  I was studied in mathematical science, having the degree of Bachelor of Science with minor specialty in Information engineering and programming.
 - 💡  I am currently a graduate student in Information engineering, NSYSU WCMC LAB learning network and wireless/mobile communicaton.
 - 🌱 I prefer studying hacker techniques, INFOSEC, network structure, communication protocols, data-science and statistics analysis.
+- 💡  My favotrite mobile game : Tower of saviors(UID : 835868480), PC game : VALORANT(UID : 海龍王彼得兔#09088)
 - 📫 How to reach me:
 - **E-mail** {brian18088@gmail.com}
 - [Discord](https://discordapp.com/users/brian18088#7366)
