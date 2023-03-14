@@ -26,6 +26,7 @@ Now being a graduate student, studying computer science & engineering.
 - [ ] 自動化交易api串接與回朔過往資料(晚上討論)
 - [ ] 實習面試
 - [ ] os線上課程補完
+- [ ] 元大期貨開戶+API
 
 ##　Snake eating my contribution graph
 ![snake gif](https://github.com/brian09088/brian09088/blob/output/github-contribution-grid-snake.gif)
