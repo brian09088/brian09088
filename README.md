@@ -16,7 +16,6 @@ Now being a graduate student, studying computer science & engineering.
 - [Instagram](https://www.instagram.com/brian_18088/)
 
 ### To-do-lists
-To-do-lists
 - [ ] AD-HOC大抄(~Ch4)
 - [ ] 資料庫報告(big data找論文&做簡報5/4報告)
 - [ ] 資料庫lab
