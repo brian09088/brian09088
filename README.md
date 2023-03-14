@@ -17,15 +17,15 @@ Now being a graduate student, studying computer science & engineering.
 
 ### To-do-lists
 To-do-lists
-- [ ] 1.AD-HOC大抄(~Ch4)
-- [ ] 2.資料庫報告(big data找論文&做簡報5/4報告)
-- [ ] 3.資料庫lab
-- [ ] 4.(3/16)meeting slide(re過一次)
-- [ ] 5.做下次meeting slide(4/6)
-- [ ] 6.ad-hoc hw3&oral presentation(5/4)
-- [ ] 7.自動化交易api串接與回朔過往資料(晚上討論)
-- [ ] 8.實習面試
-- [ ] 9.os線上課程補完
+- [ ] AD-HOC大抄(~Ch4)
+- [ ] 資料庫報告(big data找論文&做簡報5/4報告)
+- [ ] 資料庫lab
+- [ ] (3/16)meeting slide(re過一次)
+- [ ] 做下次meeting slide(4/6)
+- [ ] ad-hoc hw3&oral presentation(5/4)
+- [ ] 自動化交易api串接與回朔過往資料(晚上討論)
+- [ ] 實習面試
+- [ ] os線上課程補完
 
 ##　Snake eating my contribution graph
 ![snake gif](https://github.com/brian09088/brian09088/blob/output/github-contribution-grid-snake.gif)
