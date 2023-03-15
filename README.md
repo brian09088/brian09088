@@ -23,7 +23,6 @@ Now being a graduate student, studying computer science & engineering.
 - [ ] (3/16)meeting slide(re過一次)
 - [ ] 做下次meeting slide(4/6)
 - [ ] ad-hoc hw3&oral presentation(5/4)
-- [ ] 自動化交易api串接與回朔過往資料(晚上討論)
 - [ ] 實習面試
 - [ ] os線上課程補完
 - [ ] 元大期貨開戶+API
