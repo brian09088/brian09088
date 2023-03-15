@@ -16,11 +16,11 @@ Now being a graduate student, studying computer science & engineering.
 - [Instagram](https://www.instagram.com/brian_18088/)
 
 ### To-do-lists
-- [ ] AD-HOC大抄(~Ch4)
+- [ ] AD-HOC大抄(Ch~Ch)
 - [ ] 資料庫報告(big data找論文&做簡報5/4報告)
 - [ ] 資料庫lab
 - [ ] 資料庫access+sql作業練習
-- [ ] (3/16)meeting slide(re過一次)
+- [x] (3/16)meeting slide(re過一次)
 - [ ] 做下次meeting slide(4/6)
 - [ ] ad-hoc hw3&oral presentation(5/4)
 - [ ] 實習面試
