@@ -27,6 +27,9 @@ Now being a graduate student, studying computer science & engineering.
 - [ ] os線上課程補完
 - [ ] 元大期貨開戶+API
 - [ ] chatGPT LateX語法/數學公式
+- [ ] 量子電腦課程
+- [ ] golf課程(友達+力成)
+- [ ] 回測統計程式(excel+python)
 
 ##　Snake eating my contribution graph
 ![snake gif](https://github.com/brian09088/brian09088/blob/output/github-contribution-grid-snake.gif)
