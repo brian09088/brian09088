@@ -32,7 +32,6 @@ Now being a graduate student, studying computer science & engineering.
 - [ ] golf課程(友達+力成)
 - [ ] 回測統計程式(excel+python)
 - [ ] 機器學習報告
-- [ ] 資料庫報告
 - [ ] compilot學習
 
 ##　Snake eating my contribution graph
