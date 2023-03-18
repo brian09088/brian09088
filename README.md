@@ -17,7 +17,7 @@ Now being a graduate student, studying computer science & engineering.
 
 ### To-do-lists
 - 課程、學分相關(優先度高)
-- [ ] AD-HOC大抄(Ch~Ch)
+- [ ] AD-HOC大抄(3/19 ~Ch3 CSMA)
 - [x] AD-HOC作業2
 - [ ] 資料庫報告(big data找論文&做簡報5/4報告)
 - [ ] 資料庫lab
