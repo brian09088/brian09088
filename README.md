@@ -16,24 +16,26 @@ Now being a graduate student, studying computer science & engineering.
 - [Instagram](https://www.instagram.com/brian_18088/)
 
 ### To-do-lists
+- 課程、學分相關(優先度高)
 - [ ] AD-HOC大抄(Ch~Ch)
-- [ ] AD-HOC作業2
+- [x] AD-HOC作業2
 - [ ] 資料庫報告(big data找論文&做簡報5/4報告)
 - [ ] 資料庫lab
 - [ ] 資料庫access+sql作業練習
 - [x] (3/16)meeting slide(re過一次)
 - [ ] 做下次meeting slide(4/6)
 - [ ] ad-hoc hw3&oral presentation(5/4)
+- [ ] 機器學習報告
+- 優先度低(未來很重要)
+- [ ] golf課程(友達+力成)
 - [ ] 實習面試
 - [ ] os線上課程補完
 - [ ] 元大期貨開戶+API
-- [ ] chatGPT LateX語法/數學公式
-- [ ] 量子電腦課程
-- [ ] golf課程(友達+力成)
 - [ ] 回測統計程式(excel+python)
-- [ ] 機器學習報告
+- [ ] chatGPT LateX語法/數學公式
 - [ ] compilot學習
-
+- [ ] 量子電腦課程(Ewant帳號)
+ 
 ##　Snake eating my contribution graph
 ![snake gif](https://github.com/brian09088/brian09088/blob/output/github-contribution-grid-snake.gif)
 
