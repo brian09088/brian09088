@@ -22,15 +22,14 @@ Now being a graduate student, studying computer science & engineering.
 - [ ] 資料庫報告(big data找論文&做簡報5/4報告)
 - [ ] 資料庫lab
 - [ ] 資料庫access+sql作業練習
-- [x] (3/16)meeting slide(re過一次)
 - [ ] 做下次meeting slide(4/6)
 - [ ] ad-hoc hw3&oral presentation(5/4)
 - [ ] 機器學習報告
 - 優先度低(未來很重要)
-- [ ] golf課程(友達+力成)
+- [ ] golf課程(力成)
 - [ ] 實習面試
 - [ ] os線上課程補完
-- [ ] 元大期貨開戶+API
+- [ ] 元大期貨API
 - [ ] 回測統計程式(excel+python)
 - [ ] chatGPT LateX語法/數學公式
 - [ ] compilot學習
