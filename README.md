@@ -17,16 +17,15 @@ Now being a graduate student, studying computer science & engineering.
 
 ### To-do-lists
 - 課程、學分相關(優先度高)
-- [ ] AD-HOC大抄(3/19 ~Ch3 CSMA)
+- [ ] AD-HOC大抄
 - [x] AD-HOC作業2
 - [ ] 資料庫報告(big data找論文&做簡報5/4報告)
 - [ ] 資料庫lab
 - [ ] 資料庫access+sql作業練習
 - [ ] 做下次meeting slide(4/6)
 - [ ] ad-hoc hw3&oral presentation(5/4)
-- [ ] 機器學習報告
+- [ ] 機器學習報告(4/13,4/27,5/18)
 - 優先度低(未來很重要)
-- [ ] golf課程(力成)
 - [ ] 實習面試
 - [ ] os線上課程補完
 - [ ] 元大期貨API
