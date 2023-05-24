@@ -16,20 +16,9 @@ Now being a graduate student, studying computer science & engineering.
 - [Instagram](https://www.instagram.com/brian_18088/)
 
 ### To-do-lists
-- 課程、學分相關(優先度高)
-- [x] AD-HOC大抄
-- [x] AD-HOC作業2
-- [ ] 資料庫報告(big data找論文&做簡報5/4報告)
-- [ ] 資料庫lab
-- [x] 資料庫access+sql作業練習
-- [ ] 做下次meeting slide(4/20)
-- [ ] ad-hoc hw3&oral presentation(5/4)
-- [ ] 機器學習報告(4/13,4/27,5/18)
-- 優先度低(未來很重要)
-- [ ] 實習面試
+- [ ] .net / python 物件導向學習
 - [ ] os線上課程補完
-- [x] 元大期貨API
-- [ ] 回測統計程式(excel+python)
+- [ ] 程式(c/c++/python)
 - [ ] chatGPT LateX語法/數學公式
 - [ ] compilot學習
 - [ ] 量子電腦課程(Ewant帳號)
