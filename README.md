@@ -7,18 +7,14 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brian09088&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=brian09088&theme=dark&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian09088&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brian09088&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian09088&theme=2077)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brian09088&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![snake gif](https://github.com/brian09088/brian09088/blob/output/github-contribution-grid-snake.gif)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brian09088&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
