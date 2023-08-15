@@ -12,8 +12,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian09088&theme=2077)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brian09088&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/brian09088/brian09088/blob/output/github-contribution-grid-snake.gif)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
