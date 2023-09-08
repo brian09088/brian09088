@@ -15,17 +15,7 @@ Now being a graduate student, studying computer science & engineering.
 - [Discord](https://discordapp.com/users/brian18088#7366)
 - [Instagram](https://www.instagram.com/brian_18088/)
 
-### To-do-lists
-- [ ] .net / python 物件導向學習
-- [ ] os線上課程補完
-- [ ] 程式(c/c++/python)
-- [ ] chatGPT LateX語法/數學公式
-- [ ] compilot學習
-- [ ] 量子電腦課程(Ewant帳號)
-- [ ] 資安社
-- [ ] AIS3 甄選
-- [ ] 台灣好厲駭 甄選
-- [ ] cybersec 大會 
+### To-do-lists 
 
 ##　Snake eating my contribution graph
 ![snake gif](https://github.com/brian09088/brian09088/blob/output/github-contribution-grid-snake.gif)
