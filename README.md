@@ -1,3 +1,16 @@
+## ORCID
+
+<a href="https://orcid.org/0009-0008-6168-1889">
+<a hex=#A6CE391>
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="26" height="26" />
+</a>
+
+<a href="https://orcid.org/0009-0008-6168-1889">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+https://orcid.org/0009-0008-6168-1889
+</a>
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/brian18088#7366) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/brian.su.5648/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brian_su__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%9F%8F%E7%91%9C-%E8%98%87-b6b875211/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/BrianSU) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12910113/ncuma-brian)
 [![YouTube](https://img.shields.io/badge/-Youtube-f44336?logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCF_YZdLPG_w6mLdoCi1Z-UQ)
