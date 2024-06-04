@@ -7,7 +7,7 @@ Now being a graduate student, studying computer science & engineering.
 - 🔭 I’m currently working on something special and cool stuffs
 - 💂‍♂️  Since I was little, being a military officer is my aspiration. I was enlisted on 2020/07 during my college summer vacation, completed military services unttil 2022/08. Now I still like to study and focus on military News and Techniques, going to apply promotion in 2023, make an effort to become a real sergeant.
 - 🏟  I was studied in mathematical science, having the degree of Bachelor of Science with minor specialty in Information engineering and programming.
-- 💡  I am currently a graduate student in Information engineering, NSYSU WCMC LAB learning network and wireless/mobile communicaton.
+- 💡  I am currently a graduate student in Computer Science & Information engineering, learning network and wireless/mobile communicaton.
 - 🌱 I prefer studying hacker techniques, INFOSEC, network structure, communication protocols, data-science and statistics analysis.
 - 💡  My favotrite mobile game : Tower of saviors(UID : 835868480), PC game : VALORANT(UID : 海龍王彼得兔#09088)
 - 📫 How to reach me:
