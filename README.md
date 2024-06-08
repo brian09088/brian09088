@@ -1,8 +1,8 @@
-## ORCID
+## ORCiD
 
 <a href="https://orcid.org/0009-0008-6168-1889">
 <a hex=#A6CE391>
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="26" height="26" />
+<img alt="ORCiD logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="26" height="26" />
 </a>
 
 <a href="https://orcid.org/0009-0008-6168-1889">
