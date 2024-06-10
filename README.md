@@ -12,10 +12,10 @@ https://orcid.org/0009-0008-6168-1889
 
 ## ⭐ **Research Projects**:
 - Industrial Development Administration of the Ministry of Economic Affairs
-  - "**National Space Network Industry Supply Chain-Rising Star Project**", 2023
+  - "**National Space Network Industry Supply Chain-Rising Star Project**", 2024
 - Industrial Development Administration of the Ministry of Economic Affairs
   - **5G system integration and value-added promotion plan**
-  - special research and development practice has been admitted - (In progress), 2023
+  - special research and development practice has been admitted - (In progress), 2024
 
 ## 📌 **Biography**: 
 - Graduated from the Department of Mathematics, National Central University, with clear logical reasoning, mathematical analytical thinking, and statistical data analysis capabilities. Upon graduation, he obtained the second expertise in information engineering and programming.
