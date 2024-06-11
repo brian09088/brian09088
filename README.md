@@ -10,11 +10,12 @@
 https://orcid.org/0009-0008-6168-1889
 </a>
 
-## 🔰 **Core Philosophy & Motto**:
+## 🔰  **Core Philosophy & Motto**:
 - **RTS**
   - Researching
   - Teaching
   - Servicing
+- **Take from R.O.C. Use it for R.O.C.**
 ## ⭐ **Research Projects**:
 - Industrial Development Administration of the Ministry of Economic Affairs
   - "**National Space Network Industry Supply Chain-Rising Star Project**", 2024
