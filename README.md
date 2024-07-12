@@ -44,7 +44,7 @@ https://orcid.org/0009-0008-6168-1889
 - 2024 TSMC Smart Manufacturing Workshop (Tainan - Team1)
 - Enlisted in the army in the summer of 2020 - college training service, graduated from college in June 2022
 - Completion of service in August 2022, currently in the Army Reserve (see appointment order)
-- Intern at WNC in 2023, serve as an applied research intern, and obtain WNC pre-recruitment in 2025
+- Intern at WNC in 2023, serve as an applied research intern.
 ------
 #### Areas of interest: 
 - Information network security, applied mathematics, wireless mobile communication networks, graduation topic: combined language and system program game development; in my spare time, I perform personal projects and program problem solving on GitHub, and practice picoCTF simulation test questions; I also participated in internal company seminars Technical lectures (WIFI-7 AFC test and verification, LEO satellite communications), already studying 5G wireless communications transmission (**Wireless Communications**), narrowband Internet of Things (**NB-IoT**) and non-terrestrial networks (**5G Non-Terrestrial Networks**) related technologies.
