@@ -35,7 +35,7 @@ https://orcid.org/0009-0008-6168-1889
 ------
 #### Awards & Honors
 - 2024 Ministry of Economic Affairs Industrial Development Administration
-  - "National Space Network Industry Supply Chain-Rising Star Project"
+  - "National Space Network Industry Supply Chain-Rising Star Project" - Auden Corp.
 - 2024 Industrial Development Administration of the Ministry of Economic Affairs 5G System Integration Value Added Promotion
   - Plan-Special Research and Development Practice Admitted
 - 2020 Participate in USR College Social Responsibility Practice Program
