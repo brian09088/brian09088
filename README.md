@@ -31,7 +31,7 @@ https://orcid.org/0009-0008-6168-1889
   - Space industry supply chain and netcom industry rising star development plan
 - Members of the Haohan 5 Win Star Hand Village, the project application has been successfully registered.
 ```
-- National defense, science and technology, people's livelihood, and industry have achieved four goals with one stone. I feel extremely honored and proud to be a member of the national team's Xingshou Village. This plan promotes the development of future talents for the national team through cooperation between industry, academia, research and public institutions, and accumulates technical knowledge and practical research and development capabilities.
+- National defense, science and technology, people's livelihood, and industry have achieved four goals with one stone. I feel extremely honored and proud to be a member of the national team's Village. This plan promotes the development of future talents for the national team through cooperation between industry, academia, research and public institutions, and accumulates technical knowledge and practical research and development capabilities.
 ------
 #### Awards & Honors
 - 2024 Ministry of Economic Affairs Industrial Development Administration
