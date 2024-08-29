@@ -1,4 +1,5 @@
 ## 🔰  **Core Philosophy & Motto**:
+- Be a VICTORINOX
 - **RTS**
   - Researching
   - Teaching
