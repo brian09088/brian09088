@@ -9,7 +9,7 @@
 - Industrial Development Administration of the Ministry of Economic Affairs
   - "**National Space Network Industry Supply Chain-Rising Star Project**", 2024
 - Industrial Development Administration of the Ministry of Economic Affairs
-  - **5G system integration and value-added promotion plan**
+  - **5G+ system integration and value-added promotion plan**
   - special research and development practice has been admitted - (In progress), 2024
 
 ## 📌 **Biography**: 
