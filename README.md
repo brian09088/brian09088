@@ -16,7 +16,7 @@
 - Graduated from the Department of Mathematics, National Central University, with clear logical reasoning, mathematical analytical thinking, and statistical data analysis capabilities. Upon graduation, he obtained the second expertise in information engineering and programming.
 ```
 - National Space Network Industry Supply Chain Plan-Rising Stars and Riding the Trend
-  - 5G system integration and value-added promotion plan
+  - 5G+ system integration and value-added promotion plan
   - Space industry supply chain and netcom industry rising star development plan
 - Members of the Haohan 5 Win Star Hand Village, the project application has been successfully registered.
 ```
