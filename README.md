@@ -20,7 +20,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian09088&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brian09088&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian09088&theme=2077)
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="900">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
